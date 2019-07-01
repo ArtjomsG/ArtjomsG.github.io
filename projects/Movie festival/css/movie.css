@@ -1,0 +1,163 @@
+
+
+.rowheight {
+    height: 100vh;
+
+
+}
+.header {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/header.jpeg)center/cover no-repeat fixed;
+    font-family: 'Great Vibes', cursive;
+}
+
+
+#headerinfo {
+    font-size: 30px;
+
+}
+
+#buttonh {
+   background-color: rgba(52, 79, 128, 0.281);
+   border-radius: 20%;
+   border-color: white;
+   width: 20vh;
+   font-size: 20px;
+  
+   
+}
+
+#buttonh:hover {
+    background-color: rgba(60, 224, 197, 0.363);
+    transform: rotate(5deg);
+    font-size: 18px;
+}
+
+#about-us {
+    font-family: 'Great Vibes', cursive;
+  
+}
+
+#about-us-p {
+    
+    font-weight: bold;
+    font-family: helvetica;
+    line-height: 40px;
+    font-size: 20px;
+
+
+}
+
+
+#films {
+    font-family: 'Great Vibes', cursive;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/brick.jpeg)center/cover no-repeat fixed;
+
+
+}
+
+.card.mb-5 {
+    font-family: Forum, cursive;
+    
+    
+   
+}
+
+#buttonmovie {
+    background-color: rgba(52, 79, 128, 0.767);
+    border-radius: 20%;
+    border-color: white;
+    font-size: 20px;
+
+}
+
+#buttonmovie:hover {
+    background-color: rgba(60, 224, 197, 0.897);
+    font-size: 18px;
+}
+
+#register {
+    font-family: 'Great Vibes', cursive;
+}
+
+#register {
+    font-family: Forum, cursive;
+}
+
+
+#buttonregister:hover {
+    background-color: rgba(60, 224, 197, 0.363);
+
+}
+
+button#buttonregister {
+    background-color: rgba(52, 79, 128, 0.281);
+    border-radius: 20%;
+    border-color: white;
+    font-size: 20px;
+
+}
+
+#register-title {
+    font-family: Great Vibes, cursive;
+    color: rgba(52, 79, 128, 0.904);
+}
+
+
+#table-content {
+    font-size: 20px;
+    border: 3px solid black;
+}
+
+#newsfeed {
+    font-size: 50px;
+}
+
+#news {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/news.jpg)center/cover no-repeat fixed;
+}
+
+#news-img {
+    border-radius: 50%;
+    border: 10px solid rgba(52, 79, 128, 0.281);
+}
+
+#linksfooter {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/brick.jpeg)center/cover no-repeat fixed;
+}
+
+#linktoweb {
+    color: rgb(224, 172, 60);
+}
+
+#linktoweb:hover {
+    color: rgb(60, 224, 197);
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    #festival-title {
+      font-size: 24px;
+    }
+
+    #buttonh {
+        font-size: 11px;
+    }
+
+    #headerinfo {
+        font-size: 12px;
+    }
+
+    #title-about-us {
+        font-size: 55px;
+    }
+
+    #register-title {
+        font-size: 55px;
+    }
+
+    #films-for-everyone {
+        font-size: 40px;
+    }
+
+  }

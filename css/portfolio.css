@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron|Reem+Kufi&display=swap');
+#nav_img {
+    border: solid 5px white;
+    border-radius: 80px;
+   
+}
+
+.navbar {
+    max-height: 180px;
+    background-color: rgb(24, 7, 51)!important;
+}
+
+.nav_text {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.fab{
+    color: white;
+    font-size: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.bigger-fab{
+    font-size: 45px;
+}
+
+.paragraphs{
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 20px;
+}
+
+.about_me{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 50px;
+    color: rgb(24, 7, 51);
+    font-weight: bold;
+    
+}
+
+.skills{
+    color: rgb(24, 7, 51);
+    font-size: 50px;
+}
+
+.projects {
+    text-align: center;
+}
+
+
+    
+

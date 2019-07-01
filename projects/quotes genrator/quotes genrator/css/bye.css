@@ -1,0 +1,35 @@
+
+body {
+    
+    background-image: url('../extra/witchworld.jpg');
+    
+}
+
+#title {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 45px;
+    color: rgb(46, 23, 129);
+    letter-spacing: 5px;
+}
+
+.buttons {
+    
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 30px;
+    letter-spacing: 1.5px;
+     
+}
+
+.btn-info {
+    background: rgb(187, 26, 125);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+   text-decoration: none;
+   color: white;
+
+}

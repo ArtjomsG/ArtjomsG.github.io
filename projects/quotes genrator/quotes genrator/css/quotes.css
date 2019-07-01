@@ -1,0 +1,62 @@
+.main-char {
+    max-width: 420px;
+   margin-top: 80px;
+   max-height: 260px;
+   
+}
+
+#title {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 45px;
+    color: rgb(247, 90, 17);
+    letter-spacing: 5px;
+}
+
+body {
+    
+    background: url('../extra/background.jpg');
+    
+    
+
+}
+
+#boy {
+    max-width: 500px;
+    max-height: 120px;
+}
+
+#idontcare {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 20px;
+    color: rgb(248, 246, 245);
+}
+
+.buttons {
+    
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 30px;
+    letter-spacing: 1.5px;
+     
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+   text-decoration: none;
+   color: white;
+
+}
+
+
+
+#show-quote{
+    color: rgb(253, 250, 252);
+    font-family: 'Bangers', cursive;
+    font-size: 25px;
+    width: auto;
+    letter-spacing: 1px;
+}
+
